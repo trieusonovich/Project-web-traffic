@@ -1,4 +1,4 @@
-# Project-web-traffic
+# Pet-project-web-traffic
 
 A time-series forecasting project: using daily website user counts to train a **KNN Regressor** that predicts the number of users on upcoming days.
 
