@@ -1,7 +1,5 @@
 # Project-web-traffic
 
-# Website Traffic Forecasting
-
 A time-series forecasting project: using daily website user counts to train a **KNN Regressor** that predicts the number of users on upcoming days.
 
 ## Key Results
